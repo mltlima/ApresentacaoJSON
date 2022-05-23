@@ -1,0 +1,17 @@
+# Employee records
+
+- Employee one:
+  name: Alex
+  job: Developer
+  skills:
+    - python
+    - C/C++
+    - paskal
+
+- Employee two:
+  name: Bob
+  job: Tester
+  skills:
+    - lisp
+    - fortran
+    - REST APIs
